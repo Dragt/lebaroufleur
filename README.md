@@ -1,2 +1,2 @@
 # lebaroufleur
-Expérmineter le baroufle sur base de l'outile de Dabihul
+Expérmienter le Baroufle sur base de l'outil de Dabihul
